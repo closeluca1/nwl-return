@@ -3,4 +3,17 @@ npm create vite@latest (escolher a versão)
 npm install (para instalar os arquivos do vite)
 
 
-aula 1 - 58minutos
+no src só precisa ter os arquivos:
+  APP
+  MAIN
+  VITE-ENV
+
+
+npm install -D tailwindcss
+npx tailwindcss init
+npx tailwindcss -p
+npm install -D tailwindcss postcss autoprefixer
+
+
+bibliotecla de acessibilidade
+npm install @headlessui/react
