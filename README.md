@@ -15,5 +15,5 @@ npx tailwindcss -p
 npm install -D tailwindcss postcss autoprefixer
 
 
-bibliotecla de acessibilidade
+biblioteca de acessibilidade
 npm install @headlessui/react
