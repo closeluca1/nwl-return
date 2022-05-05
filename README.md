@@ -12,7 +12,8 @@
     - VITE-ENV
 
 
-  - npm install -D tailwindcss
+  - tailwindcss
+    >npm install -D tailwindcss
     >npx tailwindcss init
     >npx tailwindcss -p
     >npm install -D tailwindcss postcss autoprefixer
@@ -51,9 +52,9 @@
   - instalar o prisma
     >npm i prisma -D
     >npm i @prisma/client
-      - para executar o prisma 
+    - para executar o prisma 
         >npx prisma init
-    - despois de configurar as tabelas precisa criar a tabela
+    - depois de configurar as tabelas precisa criar a tabela
       >npx prisma migrate dev
     - ver a tabela
       >npx prisma studio
