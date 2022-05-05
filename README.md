@@ -1,8 +1,10 @@
 # UI WEB
-  - npm create vite@latest (escolher a versão)
+  - Escolher a versão
+    >npm create vite@latest
 
-  - npm install (para instalar os arquivos)
-
+ 
+  - para instalar os arquivos
+    >npm install
 
   - no src só precisa ter os arquivos:
     - APP
@@ -11,29 +13,29 @@
 
 
   - npm install -D tailwindcss
-    - npx tailwindcss init
-    - npx tailwindcss -p
-    - npm install -D tailwindcss postcss autoprefixer
+    >npx tailwindcss init
+    >npx tailwindcss -p
+    >npm install -D tailwindcss postcss autoprefixer
 
 
   - biblioteca de acessibilidade
-    - npm install @headlessui/react
+    >npm install @headlessui/react
 
 
   - formulários
-    - npm i -D @tailwindcss/forms
-    - npm install --save-dev tailwind-scrowllbar
+    >npm i -D @tailwindcss/forms
+    >npm install --save-dev tailwind-scrowllbar
 
 
   - print da tela
-    - npm install html2canvas
+    >npm install html2canvas
 
 
 # SERVER
   - criar o package.json sem framework
-    - npm init -y
-    - npm i typescript @types/node ts-node-dev -D
-    - npx tsc --init
+    >npm init -y
+    >npm i typescript @types/node ts-node-dev -D
+    >npx tsc --init
 
 - mudar o target no tsconfig.json para 2020
 - adicionar no "rootDir" src
@@ -43,12 +45,12 @@
     - "dev": "ts-node-dev src/server.ts"
 
   - instalar o express
-    - npm i express
-    - npm i -D @types/express
+    >npm i express
+    >npm i -D @types/express
 
   - instalar o prisma
-    - npm i prisma -D
-    - npm i @prisma/client
+    >npm i prisma -D
+    >npm i @prisma/client
       - para executar o prisma 
         >npx prisma init
     - despois de configurar as tabelas precisa criar a tabela
@@ -57,8 +59,8 @@
       >npx prisma studio
     
   - envio de e-mail
-    - npm i nodemailer
-    - npm i @types/nodemailer
+    >npm i nodemailer
+    >npm i @types/nodemailer
 
 
 hora 1:08:47
