@@ -63,6 +63,20 @@
     >npm i nodemailer
     >npm i @types/nodemailer
 
-
-hora 1:08:47
-https://www.youtube.com/watch?v=bm2dnsPqcek&t=284s
+  - instalar o jest
+    >npm install jest -D
+  - fazer a inicialização da configuração
+    >npx jest --init
+  - tipagens do jest
+    >npm i @types/jest -D
+  - arquivos ts do jest
+    >npm install ts-node -D
+  - interpretador jest.js para ts
+    >npm i -D jest @swc/jest
+  - adicionar no jest transform
+    -  "^.+\\.(t|j)sx?$": ["@swc/jest"]
+  
+  - controle de segunrança backend
+    >npm i cors
+    >npm i @types/cors -D
+  
