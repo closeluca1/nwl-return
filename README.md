@@ -79,4 +79,15 @@
   - controle de segunrança backend
     >npm i cors
     >npm i @types/cors -D
-  
+
+
+# app
+
+  - fontes no expo
+    >expo install expo-font @expo-google-fonts/nome-da-fonte
+  - verificar se a fonte esta sendo carregada (criar um splash)
+    >expo install expo-app-loading
+
+
+tempo do vídeo 1:01:42
+https://www.youtube.com/watch?v=p3rklgvqK4M
