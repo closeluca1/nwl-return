@@ -88,6 +88,3 @@
   - verificar se a fonte esta sendo carregada (criar um splash)
     >expo install expo-app-loading
 
-
-iniciar aula 5
-https://www.youtube.com/watch?v=YBp7UWyhe28

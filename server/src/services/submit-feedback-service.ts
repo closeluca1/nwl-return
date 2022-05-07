@@ -26,7 +26,8 @@ export class SubmitFeedbackCase {
       subject: 'Novo feedback',
       body: [
         `<p>tipo do feedback: ${type}</p>`,
-        `<p>Comentário: ${comment}</p>`
+        `<p>Comentário: ${comment}</p>`,
+        screenshot ? `<img src="${screenshot}"/>` : '',
       ].join()
     })
   }
