@@ -89,5 +89,5 @@
     >expo install expo-app-loading
 
 
-tempo do vídeo 1:01:42
-https://www.youtube.com/watch?v=p3rklgvqK4M
+iniciar aula 5
+https://www.youtube.com/watch?v=YBp7UWyhe28
